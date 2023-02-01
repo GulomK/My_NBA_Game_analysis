@@ -1,18 +1,25 @@
 # Welcome to My Nba Game Analysis
-***
+Welcome to My NBA Game Analysis
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+There were a lot of tests and I messed with them for a very long time.
+One of them was to write a project only in python. 
+Of course I could use pandas, however I have to increase my knowledge about python
 
 ## Description
-TODO - How have you solved the problem?
+The problems were difficult, so I worked for a long time.
+But I solved these problems with the help of Google and friends
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+You don't need to install anything. 
+To run the code, you need to give the command in the terminal "python and file name"
 
 ## Usage
-TODO - How does it work?
-```
+The principle of operation is simple, 
+first it loads the data, then it turns the data into a dictionary, 
+then it makes statistics, and finally it outputs statistics in the form of a table
+
+
 ./my_project argument1 argument2
 ```
 
